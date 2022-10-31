@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public String getCurrentDate(){
-        return (picker.getMonth() + 1) + "/" +//month is 0 based
+        return (picker.getMonth() + 1) + "/" + // month is 0 based
                 picker.getDayOfMonth() + "/" +
                 picker.getYear();
     }
