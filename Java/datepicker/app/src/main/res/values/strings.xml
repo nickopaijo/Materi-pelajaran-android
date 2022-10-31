@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">date-picker</string>
+    <string name="dateButton">Change Date</string>
+</resources>
